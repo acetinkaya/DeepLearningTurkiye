@@ -26,3 +26,5 @@ Orjinal derin öğrenme örnek kodlarını alıp repomuza Türkçe açıklamalar
 
 #### Keras
 * [Evrişimli Sinir Ağları (CNN) ile Nesne Tanıma (CIFAR10 veriseti + KERAS kütüphanesi)](https://github.com/deeplearningturkiye/pratik-derin-ogrenme-uygulamalari/blob/master/KERAS/nesne_tanima_CNN_CIFAR10.py)
+
+https://github.com/deeplearningturkiye/pratik-derin-ogrenme-uygulamalari web adresinden bu çalışmalar alınmıştır. 
